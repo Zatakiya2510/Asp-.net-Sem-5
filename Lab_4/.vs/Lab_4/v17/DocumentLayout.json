@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Sem-5\\.NET\\Lab_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76EC543F-18B2-4565-ADDC-29C897D95BB7}|Lab_4.csproj|a:\\sem-5\\.net\\lab_4\\stackdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EC543F-18B2-4565-ADDC-29C897D95BB7}|Lab_4.csproj|solutionrelative:stackdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EC543F-18B2-4565-ADDC-29C897D95BB7}|Lab_4.csproj|a:\\sem-5\\.net\\lab_4\\studentarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EC543F-18B2-4565-ADDC-29C897D95BB7}|Lab_4.csproj|solutionrelative:studentarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EC543F-18B2-4565-ADDC-29C897D95BB7}|Lab_4.csproj|a:\\sem-5\\.net\\lab_4\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EC543F-18B2-4565-ADDC-29C897D95BB7}|Lab_4.csproj|solutionrelative:studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EC543F-18B2-4565-ADDC-29C897D95BB7}|Lab_4.csproj|a:\\sem-5\\.net\\lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EC543F-18B2-4565-ADDC-29C897D95BB7}|Lab_4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EC543F-18B2-4565-ADDC-29C897D95BB7}|Lab_4.csproj|a:\\sem-5\\.net\\lab_4\\queuedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EC543F-18B2-4565-ADDC-29C897D95BB7}|Lab_4.csproj|solutionrelative:queuedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueueDemo.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_4\\QueueDemo.cs",
+              "RelativeDocumentMoniker": "QueueDemo.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_4\\QueueDemo.cs",
+              "RelativeToolTip": "QueueDemo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:40:56.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StackDemo.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_4\\StackDemo.cs",
+              "RelativeDocumentMoniker": "StackDemo.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_4\\StackDemo.cs",
+              "RelativeToolTip": "StackDemo.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:25:59.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_4\\StudentList.cs",
+              "RelativeDocumentMoniker": "StudentList.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_4\\StudentList.cs",
+              "RelativeToolTip": "StudentList.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:18:32.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:35:02.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentArray.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_4\\StudentArray.cs",
+              "RelativeDocumentMoniker": "StudentArray.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_4\\StudentArray.cs",
+              "RelativeToolTip": "StudentArray.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwCIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:37:29.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

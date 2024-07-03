@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Sem-5\\.NET\\Lab_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|a:\\sem-5\\.net\\lab_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|a:\\sem-5\\.net\\lab_3\\datatypechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|solutionrelative:datatypechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|a:\\sem-5\\.net\\lab_3\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|solutionrelative:calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|a:\\sem-5\\.net\\lab_3\\areas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|solutionrelative:areas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|a:\\sem-5\\.net\\lab_3\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|solutionrelative:area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|a:\\sem-5\\.net\\lab_3\\fcatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|solutionrelative:fcatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|a:\\sem-5\\.net\\lab_3\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|solutionrelative:hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|a:\\sem-5\\.net\\lab_3\\interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|solutionrelative:interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|a:\\sem-5\\.net\\lab_3\\traffic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9CC0B0-D46A-492F-9339-EA4B0D9C589D}|Lab_3.csproj|solutionrelative:traffic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Interest.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_3\\Interest.cs",
+              "RelativeDocumentMoniker": "Interest.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_3\\Interest.cs",
+              "RelativeToolTip": "Interest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:34:50.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fcatorial.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_3\\Fcatorial.cs",
+              "RelativeDocumentMoniker": "Fcatorial.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_3\\Fcatorial.cs",
+              "RelativeToolTip": "Fcatorial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:34:33.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Areas.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_3\\Areas.cs",
+              "RelativeDocumentMoniker": "Areas.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_3\\Areas.cs",
+              "RelativeToolTip": "Areas.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:34:07.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Area.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_3\\Area.cs",
+              "RelativeDocumentMoniker": "Area.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_3\\Area.cs",
+              "RelativeToolTip": "Area.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:32:46.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_3\\Hospital.cs",
+              "RelativeDocumentMoniker": "Hospital.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_3\\Hospital.cs",
+              "RelativeToolTip": "Hospital.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:36:18.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Traffic.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_3\\Traffic.cs",
+              "RelativeDocumentMoniker": "Traffic.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_3\\Traffic.cs",
+              "RelativeToolTip": "Traffic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:36:17.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_3\\Calculate.cs",
+              "RelativeDocumentMoniker": "Calculate.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_3\\Calculate.cs",
+              "RelativeToolTip": "Calculate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:35:35.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:32:50.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatatypeChange.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_3\\DatatypeChange.cs",
+              "RelativeDocumentMoniker": "DatatypeChange.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_3\\DatatypeChange.cs",
+              "RelativeToolTip": "DatatypeChange.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:35:27.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

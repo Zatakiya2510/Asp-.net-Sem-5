@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Sem-5\\.NET\\Lab_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB645F1A-6174-48F8-8D60-6B5BB989F512}|Lab_2.csproj|a:\\sem-5\\.net\\lab_2\\stringmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB645F1A-6174-48F8-8D60-6B5BB989F512}|Lab_2.csproj|solutionrelative:stringmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB645F1A-6174-48F8-8D60-6B5BB989F512}|Lab_2.csproj|a:\\sem-5\\.net\\lab_2\\caseswaping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB645F1A-6174-48F8-8D60-6B5BB989F512}|Lab_2.csproj|solutionrelative:caseswaping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB645F1A-6174-48F8-8D60-6B5BB989F512}|Lab_2.csproj|a:\\sem-5\\.net\\lab_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB645F1A-6174-48F8-8D60-6B5BB989F512}|Lab_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB645F1A-6174-48F8-8D60-6B5BB989F512}|Lab_2.csproj|a:\\sem-5\\.net\\lab_2\\changecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB645F1A-6174-48F8-8D60-6B5BB989F512}|Lab_2.csproj|solutionrelative:changecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB645F1A-6174-48F8-8D60-6B5BB989F512}|Lab_2.csproj|a:\\sem-5\\.net\\lab_2\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB645F1A-6174-48F8-8D60-6B5BB989F512}|Lab_2.csproj|solutionrelative:result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB645F1A-6174-48F8-8D60-6B5BB989F512}|Lab_2.csproj|a:\\sem-5\\.net\\lab_2\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB645F1A-6174-48F8-8D60-6B5BB989F512}|Lab_2.csproj|solutionrelative:calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB645F1A-6174-48F8-8D60-6B5BB989F512}|Lab_2.csproj|a:\\sem-5\\.net\\lab_2\\dividebyzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB645F1A-6174-48F8-8D60-6B5BB989F512}|Lab_2.csproj|solutionrelative:dividebyzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringMethod.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_2\\StringMethod.cs",
+              "RelativeDocumentMoniker": "StringMethod.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_2\\StringMethod.cs",
+              "RelativeToolTip": "StringMethod.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwEsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:31:02.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaseSwaping.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_2\\CaseSwaping.cs",
+              "RelativeDocumentMoniker": "CaseSwaping.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_2\\CaseSwaping.cs",
+              "RelativeToolTip": "CaseSwaping.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:29:24.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeCase.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_2\\ChangeCase.cs",
+              "RelativeDocumentMoniker": "ChangeCase.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_2\\ChangeCase.cs",
+              "RelativeToolTip": "ChangeCase.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:27:41.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Result.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_2\\Result.cs",
+              "RelativeDocumentMoniker": "Result.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_2\\Result.cs",
+              "RelativeToolTip": "Result.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:34:04.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_2\\Calculate.cs",
+              "RelativeDocumentMoniker": "Calculate.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_2\\Calculate.cs",
+              "RelativeToolTip": "Calculate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:16:12.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DivideByZero.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_2\\DivideByZero.cs",
+              "RelativeDocumentMoniker": "DivideByZero.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_2\\DivideByZero.cs",
+              "RelativeToolTip": "DivideByZero.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:42:22.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Sem-5\\.NET\\Lab_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\Sem-5\\.NET\\Lab_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAgwGUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:40:59.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
